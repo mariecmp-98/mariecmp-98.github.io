@@ -13,7 +13,7 @@ I work in applied economics, in the areas of regional development, economic hist
 During my PhD I was a visiting PhD student at the Department of Geography and Environment of the London School of Economics in 2025, and at the Department of Economics of the University of Southern Denmark in 2025–2026.
 
 ## My research
-My research asks how public policy can reduce regional gaps in development.
-I study how the design of industrial policy shapes its effects, for example whether decisions are taken centrally or locally.
-I also study how public investment affects whether people stay in or leave lagging regions.
-As a case study, I use historical data from the Cassa del Mezzogiorno, the public agency that ran Italy's development policy for the South from 1950 to 1992.
+My research focuses on how policies should be designed to reduce regional disparities.
+I study how the organization of industrial policy shapes its effects, for example whether support is concentrated in a few selected areas or spread across a territory.
+In my work I also evaluate how public spending affects where people choose to live.
+As a case study, I use the historical records of the Cassa per il Mezzogiorno, the public agency that ran Italy's development policy for the South from 1950 to 1992.
