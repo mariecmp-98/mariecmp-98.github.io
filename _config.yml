@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Marie Ciampi"
 title_separator          : "-"
 name                     : &name "Marie Ciampi"
 description              : &description "Personal website of Marie Ciampi"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "SdeX4zCohD03bVSB6HcCZWQWrEMSTwMweZmwpGfumfk"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
