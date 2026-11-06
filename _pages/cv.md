@@ -12,7 +12,7 @@ redirect_from:
 **[Download my full CV (PDF)]({{ base_path }}/files/CV_CiampiM.pdf)**
 
 ## Current position
-* 2023-: PhD Student in Public Policy Analysis and Evaluation
+* Nov. 2023–Mar. 2027: PhD Candidate in Public Policy Analysis and Evaluation
   * Sapienza University of Rome, Rome, Italy
   * Advisor: Guido Pellegrini. Co-advisor: Augusto Cerqua
 
@@ -28,6 +28,8 @@ redirect_from:
 * BSc in Sociology, Sapienza University of Rome, 2021, 110/110 summa cum laude
 
 ## Teaching
+* Spring 2027: Lecturer in International Economics (BSc in Economics), University of Southern Denmark
+* Spring 2027: Lecturer in Microeconomics (BSc in Economics and Business Administration), University of Southern Denmark
 * 2025: Guest Lecturer in Microeconometrics (MSc), University of Southern Denmark
 * 2024: Thesis Tutor (BA & MA), Department of Communication and Social Research, Sapienza University of Rome
 
